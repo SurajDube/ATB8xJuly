@@ -28,12 +28,5 @@ public class Lab074 {
                     System.out.println("i is 20");
                 else
                     System.out.println("i is not present");
-
-
-
-
-
-
-
     }
 }
