@@ -1,4 +1,4 @@
-package July2025.ex06072025.forandwhileLoop;
+package July2025.ex05072025.forandwhileLoop;
 
 public class Lab110 {
     public static void main(String args[])

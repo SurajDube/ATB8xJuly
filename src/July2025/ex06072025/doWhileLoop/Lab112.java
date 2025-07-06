@@ -1,4 +1,4 @@
-package July2025.ex05072025.doWhileLoop;
+package July2025.ex06072025.doWhileLoop;
 
 public class Lab112 {
     public static void main(String[] args) {
